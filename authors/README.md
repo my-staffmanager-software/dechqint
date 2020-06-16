@@ -10,7 +10,6 @@
 <br/>
 <b>Solution URL for testing <a href="https://dechqint.herokuapp.com">https://dechqint.herokuapp.com</a>  </b>
 <br/>
-<p>This dir more than two(2) classes </p>
 <ul>To modify the URL, look into ApiService.java and edit the filed 
     <code>API_URL = "https://jsonmock.hackerrank.com/api/article_users/search?page=";</code>
 </ul> 
