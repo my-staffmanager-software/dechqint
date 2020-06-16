@@ -55,8 +55,8 @@ public class SockLaundry {
 	<p>HOW TO IDENTIFY VALID CLEAN SOCKS </p>
 	<li>It must be at least two pairs of the same color</li>	
 	<b>Algorithm analysis<b>
-	<ul>Time complexity :  O(m) (where m is the total size of the clean pile)</ul>
-	<ul>Space complexity : O(1) (Only a single memory or space[@param pairCounter] is required)
+	<ul>Time complexity :  O(m+n) (where m is the total size of the clean pile, and n is the total size of the dirtypile)</ul>
+	<ul>Space complexity : O(m+n) 
    */
    private int possiblePairs(int[]cleanPile, int noOfWashes, int[] dirtyPile){
 	HashSet<Integer> cleanSocksTable = new HashSet<>();
