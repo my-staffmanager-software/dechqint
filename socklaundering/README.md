@@ -21,7 +21,7 @@
 ```* <p>
      *     <br/> <b>Algorithm analysis<b><br/>
      *     <ul>Time complexity :  O(n+m) (where n is the total size of the dirty pile, m = total size of clean pile)</ul>
-     *     <ul>Space complexity : O(n+m) (Two different memory space(s) is required)</ul>
+     *     <ul>Space complexity : O(n+m) (Two different memory or space(s) of(dirtypile and cleanpile) is required)</ul>
      * </p>
 
 ```
