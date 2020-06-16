@@ -8,9 +8,9 @@
 </li>
 
 <br/>
-<b>Solution URL for testing <a href="https://dechqint.herokuapp.com">https://dechqint.herokuapp.com</a>  </b>
+<b>URL for testing <a href="https://dechqint.herokuapp.com">https://dechqint.herokuapp.com</a>  </b>
 <br/>
-<ul>To modify the URL, look into ApiService.java and edit the filed 
+<ul>To modify the URL, look into ApiService.java and edit this line 
     <code>API_URL = "https://jsonmock.hackerrank.com/api/article_users/search?page=";</code>
 </ul> 
 <br/>
