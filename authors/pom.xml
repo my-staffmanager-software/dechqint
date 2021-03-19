@@ -8,7 +8,7 @@
     <name>apitest</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <tomcat.version>8.5.38</tomcat.version>
+        <tomcat.version>10.0.4</tomcat.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <java.version>1.8</java.version>
